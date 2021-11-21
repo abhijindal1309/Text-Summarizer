@@ -10,7 +10,7 @@ Text identification, interpretation and summary generation, and analysis of the 
 The Flask app is finally deployed to Heroku.
 
 
-# Technologies Used
+## Technologies Used
 ```
 1. Natural Language Processing
 
@@ -18,6 +18,11 @@ The Flask app is finally deployed to Heroku.
 
 ```
 
+# Methodology
+![Fake News](https://user-images.githubusercontent.com/74375277/142765257-b2bf8cda-8cd6-432a-898a-2fec2cef6877.png)
+
+## Live Link
+https://my--text--summarizer.herokuapp.com/
 
 
 
