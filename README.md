@@ -1,4 +1,4 @@
-# Text-Summarisation-using-Spacy
+# Text-Summarisation
 
 Text summarization is the process of finding the most important information from a document to produce an abridged version with all the important ideas.
 
