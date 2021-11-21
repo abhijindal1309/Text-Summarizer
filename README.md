@@ -1,8 +1,10 @@
 # Text-Summarisation
 
-Text summarization is the process of finding the most important information from a document to produce an abridged version with all the important ideas.
+The technique, where a computer program shortens longer texts and generates summaries to pass the intended message, is defined as Automatic Text Summarization and is a common problem in machine learning and natural language processing (NLP).
 
-The Idea of summarization is to find a subset of data which contains the “information” of the entire set.
+Text summarization is the process of creating a short, coherent, and fluent summary of a longer text document and involves the outlining of the text’s major points.
+
+Text identification, interpretation and summary generation, and analysis of the generated summary are some of the key challenges faced in the process of text summarization. The critical tasks in extraction-based summarization are identifying key phrases in the document and using them to discover relevant information to be included in the summary.
 
 The Flask app is finally deployed to Heroku.
 
