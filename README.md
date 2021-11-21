@@ -15,23 +15,7 @@ The Flask app is finally deployed to Heroku.
 
 ```
 
-## Usage
 
-It can be used when you have a long paragraph and you do not want to read the whole one. This can summarise the whole paragraph and give it to you.
-
-
-## To Run
-
-First Clone the project.
-
-Then run the text sum flak.ipynb file, a server will run.
-
-Click on the link and paste whatever paragraph you want to summarise.
-
-
-### Author 
-```
-Rahul Kumar Patro
 
 
 
